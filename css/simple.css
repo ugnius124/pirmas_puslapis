@@ -1,0 +1,11 @@
+body {
+font-family: sans-serif;
+background-IMAGE:URL('../images/space3.jpg');
+}
+h1{
+	padding:12px
+	bacground-color:green;
+	color:white;
+	border-radius:10px	
+}
+       
